@@ -1,35 +1,34 @@
 <div align="center">
   
-![SantosMmu](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Santos+Murmu;I'm+a+FullStack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+WRITE+CODE.+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;@neoGCamp+2023.)
+![SantosMmu](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Aman+Patel;I'm+a+FullStack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+WRITE+CODE.+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;Nice+to+meet+you😄)
   
 </div>
 
 <!-- <img align="center" alt="GIF" height="400px" width="1050px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
 
-## I'm <b>Santos Murmu</b>
+## I'm <b>Aman Patel</b>
 
 - 🌱 I’m currently Building fullStack WebApps
 - 💖 Exploring new technologies 🧑‍💻
 - ⚡️ Learning JavaScript and Advance concepts
-- 🎯 Goal: FrontEnd Engineer
+- 🎯 Goal: Full stack Developer
 - 🥅 2023 Goals: Contributions on Open Source, teaching, <b>Job</b>
-- 📫 Want to Hire me: simply DM  "Hi 👋: JDs" on [LinkedIn](https://www.linkedin.com/in/santoshmurmu/)
+- 📫 Want to Hire me: simply DM  "Hi 👋: JDs" on [LinkedIn](https://www.linkedin.com/in/amanpatell/)
 - 🛠️ Polishing my Skills in **JavaScript**,**ReactJs** , **HTML** & ***CSS***.
-- 👨‍💻 I like to showcase my work, check it out at __angrysantos.netlify.app__
-- 📝 Technical blogs:  [Hashnode](https://santosmmu.hashnode.dev/)
+- 👨‍💻 I like to showcase my work, check it out at __amanblogs.com__
+- 📝 Technical blogs:  [Hashnode](https://amanpatel07.hashnode.dev/)
 - 💬 Hit me up, for discussions on HTML, CSS, JavaScript and ReactJs.
-- 🧑‍🍳 YouTube Channel coming soon.......
 - 🔗 <img src="https://user-images.githubusercontent.com/65150646/189575199-49665116-b806-4b6d-bd94-93e5d69f708c.gif" width="50" height="30" borderRadius="50%"/>
 ---
 
 <h2 align="center" font-size="35px"><b>INDIA</b></h2>
 
-<p align="left"> <a href="https://twitter.com/santossmmu" target="blank"><img src="https://img.shields.io/twitter/follow/santossmmu?logo=twitter&style=for-the-badge" alt="santossmmu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amann_patell" target="blank"><img src="https://img.shields.io/twitter/follow/santossmmu?logo=twitter&style=for-the-badge" alt="amanpatel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/santossmmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santossmmu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santoshmurmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santoshmurmu" height="30" width="40" /></a>
+<a href="https://twitter.com/amann_patell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanpatel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amanpatell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpatel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,16 +39,16 @@
  
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realsantosm&show_icons=true&locale=en&layout=compact" alt="realsantosm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amann-patell&show_icons=true&locale=en&layout=compact" alt="amanpatel" /></p>
 
 
      
-![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm&show_icons=true&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amann-patell&show_icons=true&theme=radical)
 
 <br><br>
 
-<a href="https://github.com/Realsantosm/Realsantosm">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Realsantosm&theme=radical&hide_border=true)](https://github.com/Realsantosm" alt="Rahul's GitHub Stats Graph"/>
+<a href="https://github.com/amann-patell/amann-patell">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amann-patell&theme=radical&hide_border=true)](https://github.com/amann-patell" alt="Aman's GitHub Stats Graph"/>
 </a>
 <br><br>
 
@@ -57,7 +56,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Realsantosm}/count.svg" alt="Realsantosm :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{amann-patell}/count.svg" alt="amanpatel :: Visitor's Count" /></p>
 
 <img height="120" alt="Thanks for visiting " background="#111111" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
